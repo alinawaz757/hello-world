@@ -33,36 +33,20 @@ const ContactUs = () => {
             <ul class='get_say_info_sec'>
               <li>
                 <i class='fa fa-envelope'></i>
-                <a href='mailto:'>info@stackfindover.com</a>
+                <a href='mailto:' alt=''>
+                  info@stackfindover.com
+                </a>
               </li>
               <li>
                 <i class='fa fa-whatsapp'></i>
-                <a href='tel:'>+91 9602381997</a>
+                <a href='tel:' alt=''>
+                  +91 9602381997
+                </a>
               </li>
               <li>
                 <i class='fa fa-skype'></i>
-                <a href='#'>Stackfindover</a>
-              </li>
-            </ul>
-            <ul class='get_say_social-icn'>
-              <li>
-                <a href='#'>
-                  <i class='fa fa-facebook'></i>
-                </a>
-              </li>
-              <li>
-                <a href='#'>
-                  <i class='fa fa-instagram'></i>
-                </a>
-              </li>
-              <li>
-                <a href='#'>
-                  <i class='fa fa-twitter'></i>
-                </a>
-              </li>
-              <li>
-                <a href='#'>
-                  <i class='fa fa-linkedin'></i>
+                <a href='#s' alt=''>
+                  Stackfindover
                 </a>
               </li>
             </ul>
