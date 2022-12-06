@@ -13,6 +13,7 @@ function App() {
       method: 'GET',
       url: `/posts`,
     });
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
   console.log(response, loading, error);
   return (
