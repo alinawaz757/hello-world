@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 const Home = () => {
   return (
-    <body>
+    <div>
       <div className='intro-header'>
         <div className='container'>
           <div className='row'>
@@ -45,7 +45,7 @@ const Home = () => {
           </div>
         </div>
       </div>
-      <style jsx>{`
+      <style jsx='true'>{`
         .learn:hover {
           cursor: pointer;
         }
@@ -148,7 +148,7 @@ const Home = () => {
           font-family: 'lato';
         }
       `}</style>
-    </body>
+    </div>
   );
 };
 
